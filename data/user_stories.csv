@@ -1,0 +1,6 @@
+id,role,goal,so_that,acceptance_criteria
+1,Venue,Filter DJs by genre and date,find a suitable act quickly,Results update instantly; selected filters shown; can clear filters
+2,Venue,Preview a mix,assess vibe before booking,Play/pause works; scrubber visible; works on mobile
+3,DJ,Set availability on calendar,avoid clashes,Past dates disabled; changes save; confirmation shown
+4,Venue,Request a booking,lock in a set time,Form validation; confirmation screen; email sent
+5,DJ,Hide my profile temporarily,control my visibility,Toggle switch available; profile disappears from search

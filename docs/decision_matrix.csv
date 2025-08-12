@@ -1,0 +1,6 @@
+criterion,weight,option_A,option_B,option_C,notes
+Findability,0.25, , , ,
+Booking Error Prevention,0.2, , , ,
+Mobile Usability,0.2, , , ,
+Accessibility,0.2, , , ,
+Learnability,0.15, , , ,
