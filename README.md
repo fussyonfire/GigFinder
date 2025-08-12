@@ -23,7 +23,7 @@ A lightweight web app that helps small venue owners discover and book local DJs,
 - Contract generation.
 - Complex messaging threads (basic contact is enough).
 
-## Human Factors (Nielsen Heuristics) – Commitments
+## Human Factors Notes
 - **Visibility of system status**: loading/play states, booking progress indicators.
 - **Match to real world**: “gig”, “set time”, “load-in”, calendar metaphors.
 - **User control & freedom**: cancel/new search, undo booking request.
@@ -69,7 +69,7 @@ A lightweight web app that helps small venue owners discover and book local DJs,
 /data          # sample csvs, content stubs
 ```
 
-## How to Use this Repo Right Now
+## Next Steps
 - Add sketches (photos or exports) to `/ux/wireframes` (create folder).
 - Fill out `/docs/design_criteria.md` and `/docs/decision_matrix.csv`.
 - Open the Jupyter notebook in `/ux/01_research_and_ideation.ipynb` and add notes.
